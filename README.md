@@ -1,4 +1,4 @@
-## PyInstLive-GUI 1.0
+## PyInstaLive-GUI 1.0
 
 GUI to view your configuration file and change some of  [PyInstaLive](https://github.com/dvingerh/pyinstalive)'s startup paramaters.
 
