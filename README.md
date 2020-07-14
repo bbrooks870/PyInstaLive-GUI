@@ -1,6 +1,6 @@
 ## PyInstLive-GUI 1.0
 
-GUI to view your configuration file and change some of PyInstaLive's startup paramaters.
+GUI to view your configuration file and change some of  [PyInstaLive](https://github.com/dvingerh/pyinstalive)'s startup paramaters.
 
 When clicking the <kbd>Execute</kbd> button a new command prompt process will be opened running PyInstalive with the parameters specified.
 
